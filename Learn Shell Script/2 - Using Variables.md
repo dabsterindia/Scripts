@@ -33,7 +33,7 @@ Environment variables are like our own, except they are defined for us, by the s
   * USER
 
 
-## 1. Create a shell script and use some ENV variables
+## 4. Create a shell script and use some ENV variables
 ```
 if [ -z $EDITOR ]
 then
