@@ -24,13 +24,13 @@ echo Hi $NAME, is $COLOR favorite color?
 
 ## 3. Environment Variables
 Environment variables are like our own, except they are defined for us, by the system. They allow us to know things about our script's environment.
-  PATH
-  ENV
-  TERM
-  EDITOR
-  HOME
-  HOSTNAME
-  USER
+  * PATH
+  * ENV
+  * TERM
+  * EDITOR
+  * HOME
+  * HOSTNAME
+  * USER
 
 
 ## 1. Create a shell script and use some ENV variables
@@ -45,8 +45,8 @@ fi
 
 
 ## CHALLENGE:
-  Create a script named env.sh
-  Display a sentence which includes "username" "computername" & "home directory"
+  * Create a script named env.sh
+  * Display a sentence which includes "username" "computername" & "home directory"
 
 
 
